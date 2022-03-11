@@ -10,6 +10,9 @@ Uma Empresa nos contratou para entender suas bases de dados e exibir informaçõ
 # Desafios do Challenge
 
 ## Analisando a Base de Dados
+> Os dados foram disponibilizados em formato de backup do Mysql;   
+> Realizei a restauração dos dados e a conexão com o mysql direto com o Power BI.   
+
 Algumas ideias de métricas:
 * Faturamento 
 * Ranking de produtos vendidos
