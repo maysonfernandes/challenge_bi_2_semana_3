@@ -1,5 +1,7 @@
 # Challenge BI 2 Semana 3
 
+<img src="https://raw.githubusercontent.com/maysonfernandes/challenge_bi_2_semana_3/main/Imagens/Visual.png">
+
 ## Analisando vendas - Alura Skimó
 
 Uma Empresa nos contratou para entender suas bases de dados e exibir informações relevantes com o objetivo de auxiliar suas tomadas de decisão.
