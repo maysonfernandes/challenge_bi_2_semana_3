@@ -9,7 +9,7 @@
 
 
 
-## Analisando vendas - [Alura Skimó](https://app.powerbi.com/view?r=eyJrIjoiMzgyODNlZmItNTJhMy00YTM3LWI3YzgtMmQ4ZjM3ODNhNTg3IiwidCI6ImEwNmZiYjA0LTEyMWMtNDFiOS1hYzAxLWE3MGE0MjZiMDljNiJ9&pageName=ReportSection6b38a9df75980c7b0d79)
+## Analisando vendas - [Alura Skimó](https://app.powerbi.com/view?r=eyJrIjoiMzgyODNlZmItNTJhMy00YTM3LWI3YzgtMmQ4ZjM3ODNhNTg3IiwidCI6ImEwNmZiYjA0LTEyMWMtNDFiOS1hYzAxLWE3MGE0MjZiMDljNiJ9&pageName=ReportSection)
 
 
 Uma Empresa nos contratou para entender suas bases de dados e exibir informações relevantes com o objetivo de auxiliar suas tomadas de decisão.
@@ -38,7 +38,7 @@ Foi separada pela equipe da Alura uma série de conteúdos para estilizar o dash
 > Alé disso utilizei o CorelDraw para montar a tela de fundo (background).
 
 
-Clique aqui > [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzgyODNlZmItNTJhMy00YTM3LWI3YzgtMmQ4ZjM3ODNhNTg3IiwidCI6ImEwNmZiYjA0LTEyMWMtNDFiOS1hYzAxLWE3MGE0MjZiMDljNiJ9&pageName=ReportSection6b38a9df75980c7b0d79)
+Clique aqui > [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzgyODNlZmItNTJhMy00YTM3LWI3YzgtMmQ4ZjM3ODNhNTg3IiwidCI6ImEwNmZiYjA0LTEyMWMtNDFiOS1hYzAxLWE3MGE0MjZiMDljNiJ9&pageName=ReportSection)
 
 
 <img src="https://raw.githubusercontent.com/maysonfernandes/challenge_bi_2_semana_3/main/Imagens/Visual.png">
